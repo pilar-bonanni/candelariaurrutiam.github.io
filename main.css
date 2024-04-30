@@ -7,16 +7,13 @@
 }
 
 h3{
-    padding: 40px 0px 0px 80px;
-    font-size: 20px;
+    padding: 2.5rem 0rem 0rem 5rem;
+    font-size: 1.25rem;
     font-family: "Roboto", sans-serif;
 }
 
 .col-md-2{
-    padding: 0px 50px 1350px 80px;
-    color: rgba(54, 54, 54, 0.651);
-    font-size: 14px;
-    font-family: "Nunito Sans", sans-serif;
+    padding: 0rem 0rem 0rem 1.5rem;
 }
 
 
@@ -26,17 +23,17 @@ h3{
 
 .navbar-toggler {
     background-color: #ffffff;  /* Cambia el color de fondo */
-    border: 0px solid transparent;  /* Remueve o cambia el borde */
+    border: 0rem solid transparent;  /* Remueve o cambia el borde */
     padding: .25rem .75rem;  /* Ajusta el padding para cambiar el tamaño */
 }
 
 
 .container-fluid{
-    padding: 0px;
+    padding: 0rem;
 }
 
 .nav-link{
-    font-size: 14px;
+    font-size: 0.90rem;
     color: rgba(54, 54, 54, 0.651);
     font-family: "Nunito Sans", sans-serif;
 }
@@ -50,14 +47,14 @@ h3{
 }
 
 .navbar h3{
-    font-size: 20px;
+    font-size: 1.25rem;
     font-family: "Roboto", sans-serif;
-    padding: 10px 0px 0px 15px;
+    padding: 0.62rem 0rem 0rem 1rem;
 }
 
 .col-10{
-    margin: 35px 0px 15px 0px;
-    padding: 25px 35px 25px 25px;
+    margin: 2.18rem 0rem 1rem 0rem;
+    padding: 1.56rem 0rem 1.56rem 0rem;
 }
 
 .col-10 .row .col-12{
@@ -74,7 +71,7 @@ h3{
 }
 
 .row .col-12{
-    padding-bottom: 10px;
+    padding-bottom: 0.62rem;
 }
 
 .row .col-4{
@@ -82,47 +79,47 @@ h3{
 }
 
 .row .col-4:nth-child(1){
-    padding-right: 6px;
+    padding-right: 0.37rem;
 }
 
 .row .col-4:nth-child(2){
-    padding-right: 3px;
-    padding-left: 3px;
+    padding-right: 0.18rem;
+    padding-left: 0.18rem;
 }
 
 .row .col-4:nth-child(3){
-    padding-left: 6px;
+    padding-left: 0.37rem;
 }
 
 .col-10 .row{
-    padding-bottom: 20px;
+    padding-bottom: 1.25rem;
 }
 
 .row .col-6:first-child{
-    padding-right: 5px;
+    padding-right: 0.31rem;
 }
 
 .row .col-6:last-child{
-    padding-left: 5px;
+    padding-left: 0.31rem;
 }
 
 .navbar .row{
-    padding-bottom: 10px;
+    padding-bottom: 0.62rem;
 }
 
 .navbar .col-12 .col-12{
-    padding-bottom: 10px;
+    padding-bottom: 0.62rem;
 }
 
 .navbar .col-6:first-child{
-    padding-right: 3px;
+    padding-right: 0.18rem;
 }
 
 .navbar .col-6:last-child{
-    padding-left: 3px;
+    padding-left: 0.18rem;
 }
 
 .navbar .container-fluid{
-    padding-top: 10px;
-    padding-bottom: 20px;
+    padding-top: 0.62rem;
+    padding-bottom: 1.25rem;
 }

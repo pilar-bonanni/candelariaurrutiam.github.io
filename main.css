@@ -14,7 +14,7 @@ h3{
 
 .col-md-2{
     padding: 0rem 0rem 0rem 2rem;
-    height:220rem;
+    height:80rem;
 }
 
 
@@ -71,10 +71,6 @@ h3{
     height: auto; /* Mantiene la proporción de la imagen */
 }
 
-.row .col-12{
-    padding-bottom: 0.50rem;
-}
-
 .row .col-4{
     padding: 0;
 }
@@ -102,6 +98,10 @@ h3{
 
 .row .col-6:last-child{
     padding-left: 0.31rem;
+}
+
+.navbar .row{
+    padding-bottom: 0.62rem;
 }
 
 .navbar .col-6:first-child{

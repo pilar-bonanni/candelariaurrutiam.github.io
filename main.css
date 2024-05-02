@@ -137,3 +137,20 @@ h3{
     width: 15rem;
     height: auto;
 }
+
+.col-12 p{
+    font-family: "Nunito Sans", sans-serif;
+    font-style: oblique;
+    font-size: 0.8rem;
+    color: black;
+    margin-top: 5rem;
+    padding-left: 2rem;
+}
+
+.col-12 .mail, .col-12 .inst{
+    padding-left: 2rem;
+}
+
+.col-12 .cande{
+    padding-left: 2rem;
+}

@@ -13,8 +13,8 @@ h3{
 }
 
 .col-md-2{
-    padding: 0rem 0rem 0rem 2rem;
-    height:80rem;
+    padding: 5rem 0rem 0rem 2rem !important;
+    height:auto;
 }
 
 
@@ -115,4 +115,25 @@ h3{
 .navbar .container-fluid{
     padding-top: 0.62rem;
     padding-bottom: 1.25rem;
+}
+
+.col-md-10 p{
+    font-family: "Nunito Sans", sans-serif;
+    font-style: oblique;
+    font-size: 0.8rem;
+    color: black;
+    margin-top: 5rem;
+}
+
+.mail, .inst {
+    display: inline-block;
+    margin-bottom: 1rem;
+    color: black;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 1rem;
+}
+
+.col-md-10 .cande{
+    width: 15rem;
+    height: auto;
 }
